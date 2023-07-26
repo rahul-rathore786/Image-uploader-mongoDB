@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Image Uploading</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <header>
+        <h1>Upload Image On MongoDB</h1>
+    </header>
+
+
+    <main>
+        <a href="/hold" class="button" style="align-items: center; margin: 16px; margin-left: 0px;">Image Gallery</a>
+
+        <div class="upload-form">
+            <form action="/" method="POST" enctype="multipart/form-data" onsubmit="window.location.reload()"
+                id="myForm">
+                <div class="form-group">
+                    <label for="name">Image Title</label>
+                    <input type="text" id="name" placeholder="Name" value="" name="name" required
+                        style="font-family: 'Ubuntu', sans-serif;" />
+                </div>
+                <div class="form-group">
+                    <label for="desc">Image Description</label>
+                    <textarea id="desc" name="desc" value="" rows="2" placeholder="Description" required
+                        style="font-family: 'Ubuntu', sans-serif;"></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="image">Upload Image</label>
+                    <input type="file" id="image" name="image" value="" required />
+                </div>
+
+                <button class="form-group" type="submit">Submit</button>
+
+            </form>
+        </div>
+
+    </main>
+
+
+</body>
+
+
+</html>
