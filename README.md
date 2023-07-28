@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/rahul-rathore786/Image-uploader-mongoDB">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJsAAACcCAMAAABfuikGAAAAaVBMVEUAAAD///9VVVXf3984ODjc3NzNzc0fHx8cHBxsbGx1dXVxcXFZWVmTk5OKior8/Pzp6en29va6urrW1tZNTU3GxsY/Pz+ysrLw8PCdnZ3AwMAtLS1+fn6mpqZeXl5EREQLCwsmJiYWFha/9YbqAAAHFklEQVR4nO2cV4OyOhCGg4IuqBQRRbGw/v8fecSawJQ09jsXvreG5SFlMjOZrAgYFdOy2qfxJmya7SZJT1WUZ9wzniTIX+v18dwIVe1lsZ/9a7b6MBGY5sdp8e/YojREye4678amQ9jy+Icm6xTux515INs05cHuanZj0gFs2a4//QnF079km270yTqdRpt2A7aDQac9u24suB5bpjvTZLUjmTuVLUss0G7Wbj0+W4EbW0ansdmKpS2aEPuR2RzQhNiNyWY5115q/c+5D9vKCe0Gl4/GdnBEE2Jbj8Q2NTa5Qx1HYnNaBy95nnJPtrUPNBH6HdUHW874kZ00HDqRjsCms0YrnUaRd7Zc462l1hcsvbMt2Hc2Zdduz8PJLkldzWxU1hLbdM6+8jlWfM8dJSe9Fj82ai5J9GZj3xi+He8T17QtpY67sJ+CKakfbDX7J6TdiP0O2SFhvwTXpLizVUyzi7JR7ri/KrWNWnu4MOvYznSjpreHc50hrYba2lcV3QCIoGjJJpeBe8H0nLyrHh3YwlwwDsgG8HzoDW4pbVwOE06Ig6BnN4R2g2uJR36klTqjGnJKRRETP5+RzZtcPpI3UruwnUW+xX/doH4F1XMrqd0iNpTkq01Eib9kQQTsM9wt2eBPaeiz0iZihr5jSeYSDlfsudaJbfp21yYCtQhHJs1Rol68U95LZsOWacK+YfaLPOoUcMlsiHnkeq1TiSwjp9SNzAabkFRrXCJ4WA++2MDd9Kg5ZeCecwq3ZDZoO9ZPvIC7uVNqhGFrE0mLVe/hdSz9ehyVjdqyHk16D/N+ubcxZd2YfujEs1W+2NgErzkbl9bPZ/skjo+7CNquZTY2rjNno01jlL4tz3I/bCqzcdGCBRtFlh2VfTgc2EKZjfBDLNm2VKcNDlb6XSezsYk3Y7YER6uBLbiXtZPZCibMMmfDzRscCauWXmZjYyFjNnyrh22CkgpQ2bi0oCkbHP50wqb2Rp5yChuX4DJlW6Ddhh4SyD2tsHEZFVM2dMdCPKqbzigbE6ebsqHuFT55GmlQVbYcjUps2PAhxR+8SoOqsmX0SjVkKwNE1JmUNA9UtqBq/bGd0c00IwypZBJ7bAGZijJjw303SzY8fjZlm6NolmMaZGS+xoSNcitxb+xHOpboswUzYqk2q1TWipoAZyo+wxN9jdRqwIbsdKb6QRdpJzxjJbsiQ7bCwxGlmt0ChHaAfNI0ZPNwtNvbswHVyHNKpA6w6ZwHMZqzB21w+rdRYh+ILTAsQxqKT4PA9kB9DmSrHeGYyfYQsMh7bjLIpnVSiYvP13UqBnt33yLCbEGEJfs0FOuQdTrIw9MmAycZYUOdZl4L/TxqvX7lwtsUCC0wNukHM5lVX2TFbH06VVPwe1C2IOciQlA+C6VwNmCysmqd8kYGbLfJqlNsIWnhtw6JZAsio3EFUkEjst0iIl0z3HruNA22oNY7+JzM/Jces2xdATLXd7+x1yIaA7bbiq2oQsLwRPqRI7Pd8eLtcB9rm00K282/ZLspK3er4yR82pVmG6enAzL/Cy8VZgZsd766zqdRFE3zusYtRrac+DAnhmxamoVGOz6qEdiq+6h72Fi9s71L5N0rkH2z1R9r42xZPLOVktfXaMBlu7nYYJGPX7a1krC48It1Tw0/y1YY3F3rR+vsNZBXzATDsWylSHZ6HkY+DDmJc5m73nlfMFfHskXz24553vG9B4ZmzEWLd5LsCjnMWmz3mZ3QZ8inFkDjLMnHwYHgtNmYuBNLE15J70lKdf0OGxqw4Sl56iLXnJisuZxO+x1EqF7YsKqau5b4TFUrwPrVnF7YGK8dnwu9Y6CwN6zubJlRna+ifqJvq/acM5vORS5ksQ5PgdRDTVe2UittAp/xAlVCSumkI1ulF/k3oCXJgay3vHLc2LQzww0UQERQS6l80onNIJkD5TLh86nPsnZgM7s5C2z7yAKPX59hzzalDC6g4baP3TF5fYY1G144i2lgSdCccurGZnGLa96zJBm+xlMHNn4vgBSqZp+6brG3ZrPItt6lFqWTXb+3ZCPr9Ukp2z7d9zsrNqpcn5N8E4/p/J0FmwuavFi53r8eclM2+wObh96Llf/G07uFHlvFX3yj9fs6Io14A/luocXm4XLq62YqW90pSYcNCfTM9Iz22ZtnJmyJ2z2mjx6V/SY2ku83T2hPq29ye5Flmxvv7qi6rJZJe5bNo66zoPi/somwIIuy/imbOBt5Mn/LJowm7x+zGenLZqcvm52+bHb6stnpy2anL5udvmx2+rLZ6ctmpy+bnb5sdkLYcoeqd29KYLbMy/UZR+2ReiSXf2zkSyXCBp5y/q0mNVbH5efClosq9H9Z11aXBTxqRfyfbderPa5oGfX/ybOT5SUQD1rei6iousG8SuPJn2uZ7MtHwv8/+nxtFnwuAE4AAAAASUVORK5CYII=" alt="Logo" width="80" height="80">
+    <img src="https://www.linkpicture.com/q/img-up-icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Image Uploader Website </h3>
@@ -66,15 +66,15 @@ You can download the project and work locally.
 
 Clone the GitHub repository: gh repo clone rahul-rathore786/Image-uploader-mongoDB
 
-* Navigate to the project directory: `cd image-uploader`
+* Navigate to the project directory: `cd image-uploader-mongoDB`
 * Install the required Node.js dependencies: `npm install`
-* Start the Node.js server: `npm start`
+* Start the Node.js server: `nodemon app.js` or `node app.js`
 * Open your web browser and go to http://localhost:3000 to access the website.
  
 
 ## Usage
 
-* **Upload Image:** To upload an image, the user can either click on the "Upload" button or drag and drop the image into the designated upload area. The image file and the provided title and description are stored in the MongoDB database.
+* **Upload Image:** To upload an image, the user can click on the "Choose File" button. The image file and the provided title and description are stored in the MongoDB database.
 
 ![Screen Shot](https://www.linkpicture.com/q/img-up1.png)
 
